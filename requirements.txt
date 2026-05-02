@@ -2,5 +2,6 @@ streamlit
 pandas
 scikit-learn
 nltk
-plotlygit 
+plotly
 PyPDF2
+python-docx

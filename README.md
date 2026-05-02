@@ -40,8 +40,7 @@ project2_resume_matcher/
 | Personalised tips | Actionable recommendations to improve the resume |
 | Contact extraction | Auto-detects email and phone number |
 
-## Resume Bullet Points (copy these!)
-
+## Resume Bullet Points 
 - Built NLP-powered resume-JD matching system using TF-IDF and cosine similarity achieving skill detection across 80+ technical keywords
 - Implemented ATS keyword density analysis to identify resume gaps and optimise keyword placement
 - Deployed as a Streamlit web app supporting PDF, DOCX, and text input with real-time match scoring
